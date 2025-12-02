@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ZenSpace - AI Room Organizer",
+  "description": "Upload photos of your messy rooms and get instant, AI-powered decluttering and organization advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
